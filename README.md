@@ -14,7 +14,7 @@
 
 ---
 ## Passos sugeridos da ativadade
-1. Clonar repositório
+1. Fork desse repositório
 2. Verificar como na linguagem trata concorrência (regiões críticas)
    1. Verificar se existe biblioteca de exclusão mútua como semáfofo
    2. Verificar se existe estruturas de dados que tratam concorrência
