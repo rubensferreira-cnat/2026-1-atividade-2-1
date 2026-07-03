@@ -45,3 +45,6 @@ Parâmetros: `num_philosophers cycles`
 - O código usa `System.Threading.SemaphoreSlim` para sincronização.
 - O projeto foi desenvolvido para rodar dentro de um container Linux com .NET.
 - Registre as observações de execução e qualquer comportamento não esperado para a apresentação.
+
+
+Link para apresentação: https://canva.link/sonc22jic5t0rzu
